@@ -1,4 +1,0 @@
-This is a test file:
-I can write anything I want...
-
-In fact, now is a good time to change the subject back to lemons.
